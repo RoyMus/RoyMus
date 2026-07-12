@@ -32,7 +32,7 @@ I am a Backend Developer and Freelancer with a deep passion for Quantitative Fin
 
 *   **[RS Algo System Showcase](https://github.com/RoyMus/RS-AlgoSystem-Showcase)** 
     *   Built a sequential 7x7 pairwise tournament relative strength matrix and median alpha filter using Pine Script.       Migrated fully to Python for automated portfolio rebalancing.
-*   **[Stock Anaylsis Project](https://github.com/RoyMus/StockAnalysisTool)**
+*   **[Stock Analysis Project](https://github.com/RoyMus/StockAnalysisTool)**
     *   A multi-factor stock analysis engine that scores stocks 0–100 across five pillars — technicals, trend & mean-reversion, analyst consensus, value, and growth — and validates its own signal with a point-in-time backtest and statistical significance tests.
 *   **[AgroField](https://github.com/RoyMus/AgroField)**
     *   AgroField is a responsive web application designed to streamline data entry for field researchers. It integrates with Google Sheets and leverages OAuth for secure authentication, enabling users to interactively edit spreadsheet data while in the field.
