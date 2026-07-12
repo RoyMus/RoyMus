@@ -30,15 +30,21 @@ I am a Backend Developer and Freelancer with a deep passion for Quantitative Fin
 
 ## Featured Projects
 
-📈**[RS Algo System Showcase](https://github.com/RoyMus/RS-AlgoSystem-Showcase)** 
-    *   Built a sequential 7x7 pairwise tournament relative strength matrix and median alpha filter using Pine Script.       Migrated fully to Python for automated portfolio rebalancing.
-    
-📊**[Stock Analysis Project](https://github.com/RoyMus/StockAnalysisTool)**
-    *   A multi-factor stock analysis engine that scores stocks 0–100 across five pillars — technicals, trend & mean-reversion, analyst consensus, value, and growth — and validates its own signal with a point-in-time backtest and statistical significance tests.
+### 📈 RS Algo System Showcase
+[![Repository](https://img.shields.io/badge/RS__Algo__System-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoyMus/RS-AlgoSystem-Showcase)
+* Built a sequential 7x7 pairwise tournament relative strength matrix and median alpha filter using Pine Script.
+* Migrated fully to Python for automated portfolio rebalancing.
+
+### 📊 Stock Analysis Project
+[![Repository](https://img.shields.io/badge/Stock__Analysis__Tool-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoyMus/StockAnalysisTool)
+* A multi-factor stock analysis engine that scores stocks 0–100 across five pillars — technicals, trend & mean-reversion, analyst consensus, value, and growth.
+* Validates its own signal with a point-in-time backtest and statistical significance tests.
+
+### 🌾 AgroField
+[![Repository](https://img.shields.io/badge/AgroField-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoyMus/AgroField)
+* A responsive web application designed to streamline data entry for field researchers.
+* Integrates with Google Sheets and leverages OAuth for secure authentication, enabling users to interactively edit spreadsheet data while in the field.
   
-🥕**[AgroField](https://github.com/RoyMus/AgroField)**
-    *   AgroField is a responsive web application designed to streamline data entry for field researchers. It integrates with Google Sheets and leverages OAuth for secure authentication, enabling users to interactively edit spreadsheet data while in the field.
-      
 ---
 [![Roy Musafi's GitHub stats](https://github-stats-extended.vercel.app/api?username=RoyMus&show_icons=true&theme=dark&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
 
